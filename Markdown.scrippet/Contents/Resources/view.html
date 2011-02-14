@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+    <title>Result</title>
+    <meta name="author" content="Atushi Nagase" />
+    <link href="default.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" charset="utf-8" src="Scrippet.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        Scrippet.onInitialize = function() {
+            document.body.innerHTML = Scrippet.getSnippets()[0].getProperty("MARKDOWN_RESULT_HTML");
+        }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
