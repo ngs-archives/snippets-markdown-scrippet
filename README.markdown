@@ -1,5 +1,5 @@
 #Preview Markdown
-Preview markdown plugin for ( called ' [Scrippet](http://www.snippetsapp.com/extras/scrippets/) ' ) for [Posterous](http://posterous.com/)
+Preview markdown plugin for [Snippets](http://www.snippetsapp.com/) ( called ' [Scrippet](http://www.snippetsapp.com/extras/scrippets/) ' )
 
 ##INSTALL
 
