@@ -15,10 +15,10 @@ Then Snippets become active, `Preview Markdown` item will be added to bundles li
 
 ##BUGS AND FEEDBACKS
 
-Use [GitHub Issues](https://github.com/ngs/snippets-markdown-scrippet/issues) OR 'Fork', modify and 'Pull Request' me.
+Use [GitHub Issues](https://github.com/ngs/snippets-markdown-scrippet/issues) OR ' Fork ', modify and ' Pull Request ' me.
 
 ##AUTHOR
 
-**Atushi Nagase** http://ngsdev.org/
+**Atushi Nagase** [http://ngsdev.org/](http://ngsdev.org/)
 
 
